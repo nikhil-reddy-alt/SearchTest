@@ -8,7 +8,7 @@ import java.util.Properties;
 
 /**
  * 
- * @author Nikhil Nandyala
+ * @author Nikhil Reddy
  *
  */
 public class ConfigReader {
